@@ -11,7 +11,7 @@ This repository is an opportunity to showcase your abilities and demonstrate you
 
 ### **Are you here to complete the task?**
 
-`I do nto sea eny typo!`
+`I do not see eny typo!`
 
 
 
